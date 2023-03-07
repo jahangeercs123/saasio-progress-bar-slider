@@ -1,11 +1,12 @@
 /* global css end--------------------------------------------------- */
+
 * {
 	box-sizing: border-box;
 	scroll-behavior: smooth;
 	margin: 0px;
 	padding: 0px;
 }
-
+/* comment */
 .container {
 	max-width: 1320px;
     margin: 0 auto;
